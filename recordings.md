@@ -10,7 +10,7 @@ These are password protected, and you will have been given this password in the 
 
 # Day 2
 
-* Session 1: 10am to 12pm
-* Session 2: 1pm to 3pm
-* Session 3: 4pm to 6pm
+* [Session 1: 10am to 12pm](https://vimeo.com/454764292)
+* [Session 2: 1pm to 3pm](https://vimeo.com/454834363)
+* [Session 3: 4pm to 6pm](https://vimeo.com/454835737)
 
